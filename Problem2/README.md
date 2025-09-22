@@ -118,18 +118,5 @@ python3 predict_victim.py
 
 ---
 
-## 📌 Notes
-
-* `traces/`, `cleaned/`, `artifacts/`, and `models/` folders are **generated**
-  and ignored in git (`.gitignore`).
-* Only **logic scripts** are uploaded to GitHub.
-* Example final prediction:
-
-  ```
-  === Ensemble Decision over Victim Traces ===
-  Most likely model = mobilenet_v2 (mean prob 0.812)
-  ```
-
----
 
 
