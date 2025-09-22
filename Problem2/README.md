@@ -20,9 +20,7 @@ The workflow includes:
 - Feature extraction
 - Model training & evaluation
 - Victim prediction
-
----
-
+```
 
 
 Install requirements:
