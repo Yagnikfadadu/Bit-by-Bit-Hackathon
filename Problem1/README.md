@@ -284,4 +284,3 @@ print("Disconnected from hardware.")
 
 The script will program the target, iterate over all 1024 candidate keys, send each candidate as a ciphertext (2 bytes), read the 2-byte plaintext reply, and compare it to the expected verification plaintext (default `6267`).
 
-```
