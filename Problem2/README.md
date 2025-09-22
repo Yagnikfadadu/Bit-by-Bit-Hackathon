@@ -1,5 +1,5 @@
 ## 📄 README.md
-I haven't uploaded full trace files yet because some were excedding 100MB Github limit, but this code gives idea how things work.
+I haven't uploaded full trace files yet because some were exceeding 100MB Github limit, but this code gives idea how things work.
 ## Output
 <img width="712" height="467" alt="image" src="https://github.com/user-attachments/assets/addebaaf-1ce4-4823-8dd2-c953ec98e427" />
 
