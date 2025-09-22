@@ -23,13 +23,7 @@ The workflow includes:
 
 ---
 
-## ⚙️ Setup
 
-Clone this repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/hackathon-victim-identification.git
-cd hackathon-victim-identification
-````
 
 Install requirements:
 
