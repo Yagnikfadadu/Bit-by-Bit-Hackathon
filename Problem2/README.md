@@ -23,31 +23,6 @@ The workflow includes:
 
 
 
-Install requirements:
-
-```bash
-pip3 install -r requirements.txt
-```
-
----
-
-## 📂 Repo Structure
-
-```
-.
-├── clean_all.py         # Cleans raw perf CSV traces into structured CSV
-├── collect_traces.sh    # Collects traces using perf
-├── extract_features.py  # Extracts statistical + time-series features
-├── predict_victim.py    # Predicts victim model (e.g., AlexNet vs MobileNet)
-├── train_model.py       # Trains classifier and saves model artifacts
-├── utils.py             # Common helper functions
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
-└── .gitignore           # Ignore generated data
-```
-
----
-
 ## 🚀 Usage
 
 ### 1. Collect traces
