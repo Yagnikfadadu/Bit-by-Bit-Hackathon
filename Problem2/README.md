@@ -7,7 +7,7 @@
 ## Answer is yet unclear but will be either of this two class is gauranteed I am processing data again
 
 
-````markdown
+
 # 🧩 Victim Model Identification (Bit-by-Bit Hackathon)
 
 This repository contains the full pipeline to **identify CNN victim models**  
@@ -20,7 +20,7 @@ The workflow includes:
 - Feature extraction
 - Model training & evaluation
 - Victim prediction
-```
+
 
 
 Install requirements:
