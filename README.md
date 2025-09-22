@@ -4,12 +4,18 @@ This repository contains our solution for the **Bit-by-Bit Hackathon**.
 We implemented **Side-Channel Analysis (SCA)** techniques to recover AES secret keys using power/EM traces.  
 The project includes scripts for **trace collection, training, prediction, evaluation, and attack execution** using deep learning models (MLP, AlexNet, MobileNet, etc.).
 
+For more details visit each problem statement folder and there is explanation with README.md file for that particular problem statement and codes for the Attacts.
+
+We were able to crack problem1 and problem3 fully while we partially solved the problem2 with two output classes, but we are sure that answer is between predicted output.
+
 ---
 
 ## 📂 Solution for Problem 1
 <img width="1060" height="705" alt="image" src="https://github.com/user-attachments/assets/d13e9af2-21eb-4f90-bb76-5b0d2af9f72e" />
 
-### Final Answer => 110011011110001 (based on known data in given problem statement MSB = 1 and LSB = 0001
+### Final Answer => 110011011110001 (based on known data in given problem statement MSB = 1 and LSB = 0001, Decimal = 26353
+
+(please visit folder problem1 for more detailed explanation)
 
 
 ## 📂 Solution for Problem 2
@@ -29,3 +35,4 @@ The project includes scripts for **trace collection, training, prediction, evalu
   Rank 4: 0xdc (Log-Likelihood: -41.21)
   Rank 5: 0xba (Log-Likelihood: -41.52)
 ```
+
